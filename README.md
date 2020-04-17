@@ -17,4 +17,4 @@ Sorry, if you click feed and it overlay, the button will pushed backward, show y
 to open it and no overlay.
 
 ![Images Install]
-(https://pasteboard.co/J4eOK3q.png)
+(https://i.ibb.co/30LvKtG/IG-Post-Time.png)
