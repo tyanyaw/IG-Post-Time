@@ -16,5 +16,4 @@ Google Chrome Extension to show Instagram Exact Post Time
 Sorry, if you click feed and it overlay, the button will pushed backward, show you need to click POST TIME
 to open it and no overlay.
 
-![Images IG-Post-Time]
-(https://i.ibb.co/30LvKtG/IG-Post-Time.png)
+![alt text](https://i.ibb.co/30LvKtG/IG-Post-Time.png)
