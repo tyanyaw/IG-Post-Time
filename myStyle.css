@@ -1,0 +1,17 @@
+.TimeButton {
+line-height: 30px;
+font-weight: bold;
+font-size: 30px;
+padding: 10px;
+background: yellow;
+border: none;
+border-radius: 30px;
+position: fixed;
+right:0%;
+top:10%;
+
+}
+
+.TimeButton:hover {
+  background: orange;
+}
